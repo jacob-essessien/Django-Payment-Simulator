@@ -10,6 +10,12 @@ to real funds. Exchange rates are fixed example values, not live financial data.
 
 ![Dashboard using synthetic test accounts](docs/dashboard.png)
 
+[Watch the 24-second screenshot walkthrough](docs/media/walkthrough.mp4) ·
+[Animated preview](docs/media/walkthrough.gif) · [Demo steps and results](docs/DEMO.md)
+
+The walkthrough uses fictional accounts to send GBP 50.00, accept a GBP 25.00
+request, inspect the transaction history and verify the resulting GBP 925.00 balance.
+
 ## Features
 
 - Registration, login, CSRF-protected logout and user-specific account data.
